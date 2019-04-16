@@ -1,1 +1,1 @@
-# EGManager##https://www.baidu.com
+# EGManager
