@@ -1,2 +1,0 @@
-# EGManager
-##www.baidu.com
