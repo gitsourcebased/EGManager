@@ -1,2 +1,2 @@
 # EGManager
-##https://68fh.cn/app.php/39
+##http://68fh.cn/app.php/39
