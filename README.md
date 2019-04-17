@@ -1,2 +1,2 @@
 # EGManager
-##App-Prefs:root=SAFARI=www.baidu.com
+##www.baidu.com
