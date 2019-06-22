@@ -1,2 +1,2 @@
 # EGManager尾巴两个井
-##https://www.chnbet1.com/
+##https://www.yabo16.app/download.html
